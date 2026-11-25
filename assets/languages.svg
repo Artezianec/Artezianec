@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Languages in own public and private repositories, including PHP">
+  <title>Languages — own repositories, including private</title>
+  <defs>
+    <style>
+      .title { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9a15a; }
+      .sub { font: 400 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a8a396; }
+      .name { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e7e1d3; }
+      .pct { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e7e1d3; }
+    </style>
+  </defs>
+  <rect width="495" height="195" rx="4.5" fill="#0f0f0e"/>
+  <text class="title" x="22" y="22">Languages</text>
+  <text class="sub" x="22" y="38">Own repositories, including private</text>
+  <text class="name" x="22" y="64.0">Java</text>
+  <rect x="124" y="56.0" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="56.0" width="286.0" height="7" rx="3.5" fill="#b07219"/>
+  <text class="pct" x="473" y="64.0" text-anchor="end">36.8%</text>
+  <text class="name" x="22" y="77.4">PHP</text>
+  <rect x="124" y="69.4" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="69.4" width="194.3" height="7" rx="3.5" fill="#777BB4"/>
+  <text class="pct" x="473" y="77.4" text-anchor="end">25.0%</text>
+  <text class="name" x="22" y="90.8">C#</text>
+  <rect x="124" y="82.8" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="82.8" width="108.0" height="7" rx="3.5" fill="#178600"/>
+  <text class="pct" x="473" y="90.8" text-anchor="end">13.9%</text>
+  <text class="name" x="22" y="104.2">TypeScript</text>
+  <rect x="124" y="96.2" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="96.2" width="69.2" height="7" rx="3.5" fill="#3178c6"/>
+  <text class="pct" x="473" y="104.2" text-anchor="end">8.9%</text>
+  <text class="name" x="22" y="117.6">Python</text>
+  <rect x="124" y="109.6" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="109.6" width="47.4" height="7" rx="3.5" fill="#3572A5"/>
+  <text class="pct" x="473" y="117.6" text-anchor="end">6.1%</text>
+  <text class="name" x="22" y="131.0">JavaScript</text>
+  <rect x="124" y="123.0" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="123.0" width="33.4" height="7" rx="3.5" fill="#f1e05a"/>
+  <text class="pct" x="473" y="131.0" text-anchor="end">4.3%</text>
+  <text class="name" x="22" y="144.4">Go</text>
+  <rect x="124" y="136.4" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="136.4" width="17.9" height="7" rx="3.5" fill="#00ADD8"/>
+  <text class="pct" x="473" y="144.4" text-anchor="end">2.3%</text>
+  <text class="name" x="22" y="157.8">HTML</text>
+  <rect x="124" y="149.8" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="149.8" width="10.1" height="7" rx="3.5" fill="#e34c26"/>
+  <text class="pct" x="473" y="157.8" text-anchor="end">1.3%</text>
+  <text class="name" x="22" y="171.2">CSS</text>
+  <rect x="124" y="163.2" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="163.2" width="8.5" height="7" rx="3.5" fill="#663399"/>
+  <text class="pct" x="473" y="171.2" text-anchor="end">1.1%</text>
+  <text class="name" x="22" y="184.6">C++</text>
+  <rect x="124" y="176.6" width="286" height="7" rx="3.5" fill="#1c2320"/>
+  <rect x="124" y="176.6" width="3.0" height="7" rx="3.5" fill="#f34b7d"/>
+  <text class="pct" x="473" y="184.6" text-anchor="end">0.3%</text>
+</svg>
