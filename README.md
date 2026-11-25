@@ -114,7 +114,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artezianec&show_icons=true&bg_color=0f0f0e&title_color=c9a15a&icon_color=72947f&text_color=e7e1d3&ring_color=c9a15a&hide_border=true&disable_animations=true&count_private=true&include_all_commits=true&card_width=495" width="495" height="195" alt="Artezianec's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artezianec&show_icons=true&bg_color=0f0f0e&title_color=c9a15a&icon_color=72947f&text_color=e7e1d3&ring_color=c9a15a&hide_border=true&disable_animations=true&count_private=true&card_width=495" width="495" height="195" alt="Artezianec's GitHub Stats" />
   <img src="assets/languages.svg" width="495" height="195" alt="Languages in own public and private repositories, including PHP" />
 </p>
 
