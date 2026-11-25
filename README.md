@@ -13,7 +13,7 @@
   <a href="https://chanage.online">
     <img src="https://img.shields.io/badge/site-chanage.online-c9a15a?style=flat&labelColor=191b1c" alt="chanage.online" />
   </a>
-  <a href="https://discord.gg/3p68ptT4Zw">
+  <a href="https://discord.gg/9JMsFvyRBp">
     <img src="https://img.shields.io/badge/discord-72947f?style=flat&labelColor=191b1c" alt="Discord" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Artezianec&label=profile+views&color=72947f&labelColor=191b1c&style=flat" alt="Profile views" />
@@ -130,7 +130,7 @@
   <a href="https://chanage.online">
     <img src="https://img.shields.io/badge/Website-chanage.online-c9a15a?style=for-the-badge&labelColor=191b1c&logo=googlechrome&logoColor=efdebf" alt="chanage.online" />
   </a>
-  <a href="https://discord.gg/3p68ptT4Zw">
+  <a href="https://discord.gg/9JMsFvyRBp">
     <img src="https://img.shields.io/badge/Discord-ChanAge-72947f?style=for-the-badge&labelColor=191b1c&logo=discord&logoColor=efdebf" alt="Discord" />
   </a>
   <a href="https://github.com/Artezianec">
